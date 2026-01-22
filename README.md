@@ -1,4 +1,4 @@
-# 🚀 DSA Journey in C++
+# 🚀 My DSA Journey in C++
 
 Welcome to my Data Structures and Algorithms (DSA) journey!
 This repository is dedicated to my learning, practice, and mastery of DSA using **C++**.
