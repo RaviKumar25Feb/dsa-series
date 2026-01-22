@@ -37,10 +37,10 @@ It includes notes, code implementations, problem solutions, and explanations —
 
 * **Online Coding Platforms**:
 
-  * [GeeksforGeeks](https://www.geeksforgeeks.org/user/ravikumar1only/)
-  * [LeetCode](https://leetcode.com/ravikumar1only/)
-  * [CodeChef](https://www.codechef.com/users/ravikumar1only)
-  * [Codeforces](https://codeforces.com/profile/ravikumar1only)
+  * [GeeksforGeeks](https://www.geeksforgeeks.org/user/ravikumar25feb/)
+  * [LeetCode](https://leetcode.com/ravikumar25feb/)
+  * [CodeChef](https://www.codechef.com/users/ravikumar25feb)
+  * [Codeforces](https://codeforces.com/profile/ravikumar25feb)
 
 * **Learning Sources**:
 
@@ -58,11 +58,11 @@ I’m solving problems regularly and updating this repo as I go. Stay tuned!
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ravikumar1only)
-- 💼 [Portfolio](https://www.ravikumar1only.com)
-- 🐦 [Twitter](https://www.twitter.com/ravikumar1only)
-- 📸 [Instagram](https://www.instagram.com/ravikumar1only)
-- 📘 [Facebook](https://www.facebook.com/ravikumar1only)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ravikumar25feb)
+- 💼 [Portfolio](https://www.codianhub.com)
+- 🐦 [Twitter](https://www.twitter.com/ravikumar25feb)
+- 📸 [Instagram](https://www.instagram.com/ravikumar25feb)
+- 📘 [Facebook](https://www.facebook.com/ravikumar25feb)
 
 ---
 
@@ -70,4 +70,4 @@ I’m solving problems regularly and updating this repo as I go. Stay tuned!
 
 If you find this helpful, consider starring ⭐ the repo — it motivates me to keep going!
 
-> Designed & Developed with ❤️ by [Ravi Kumar](https://github.com/ravikumar1only)
+> Designed & Developed with ❤️ by [Ravi Kumar](https://github.com/ravikumar25feb)
