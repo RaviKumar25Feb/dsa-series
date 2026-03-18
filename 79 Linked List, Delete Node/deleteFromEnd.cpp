@@ -44,24 +44,33 @@ int main()
     cout<<endl;
 
     // now deleting node from end
-    //first check kya only one node to nhi hai
-    if(Head == Tail)
+    
+    if(Head!=NULL)
     {
-        delete Head;
-        Head = Tail = NULL;
-        return 0;
-    }
+        //only one node is present
+        if(Head->next == NULL)
+        {
+            Node *temp = Head;
+            delete temp;
+            Head = NULL;
+        }
+        //more than one node is present
+        else {
+            Node *curr = Head;
+            Node *prev = NULL;
 
-    Node* secondTemp = Tail;
-    temp = Head;
-    while(temp->next != Tail)
-    {
-        temp = temp->next;
-    }
+            //curr->next is not null
+            while(curr->next != NULL)
+            {
+                prev = curr;
+                curr = curr->next;
+            }
 
-    Tail = temp;
-    Tail->next = NULL;
-    delete secondTemp;
+            prev->next = curr->next;
+            delete curr;
+        }
+    }
+    
 
     //printing the node
     temp = Head;
