@@ -28,4 +28,6 @@ int main()
     Head = new Node(4);
     cout<<Head->data<<endl;
     cout<<Head->next<<endl;
+
+    return 0;
 }
